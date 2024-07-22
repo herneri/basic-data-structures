@@ -1,0 +1,11 @@
+This is a library of basic data structure functionality
+(insertion and deletion), with integers being the data that is stored.
+
+The purpose of this is to demonstrate one of my implementations of
+data structures in C. It also serves as a basic template that I can work
+with in the event that I need any of these.
+
+Available data structures:
+Linked List
+Stack and Queue
+Tree
